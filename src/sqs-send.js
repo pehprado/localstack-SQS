@@ -16,5 +16,5 @@ async function main() {
 
 (async() => {
     const response = await main()
-    console.log('RESPONSE', response)
+    console.log('SENT', response)
 })();
